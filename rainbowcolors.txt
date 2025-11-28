@@ -1,3 +1,5 @@
 red is the first color of the rainbow
 orange is the second color 
 yellow is the third color
+green is the third color
+purple is the fifth color
